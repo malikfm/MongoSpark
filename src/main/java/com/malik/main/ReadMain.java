@@ -21,7 +21,7 @@ public class ReadMain {
                 .getOrCreate();
         JavaSparkContext sparkContext = new JavaSparkContext(sparkSession.sparkContext());
 
-        // Load data from MongoDB
+        // Load data from MongoDB then print the result
         MongoSpark.load(sparkContext)
                 .withPipeline(singletonList(Document.parse(args[1])))
                 .foreach(document -> System.out.println(document.toJson()));
