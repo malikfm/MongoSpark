@@ -43,8 +43,7 @@ args[0]
 }
 </pre>
 
-args[1]
-<pre>{ your query }</pre>
+args[1]: query
 
 <br />
 <br />
