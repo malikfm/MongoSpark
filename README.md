@@ -26,8 +26,7 @@ args[0]
 }
 </pre>
 
-args[1]
-<pre>/path/city_attributes.json</pre>
+args[1]: path of JSON file
 
 #### Read
 
