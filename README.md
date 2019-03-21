@@ -26,7 +26,7 @@ args[0]
 }
 </pre>
 
-args[1]: path of JSON file
+args[1]: path to JSON file
 
 #### Read
 
