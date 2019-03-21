@@ -1,5 +1,5 @@
 # MongoSpark
-Insert JSON data and query to/from MongoDB using Java and Spark.
+This program illustrates how to insert JSON data to MongoDB and query from MongoDB using Java and Spark.
 
 <br />
 <br />
